@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Khalid%20Belahyane&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&customColorList=12&height=120&section=header&text=Khalid%20Belahyane&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=700&lines=Learning+Python+%F0%9F%90%8D;Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;Building+in+Public+%F0%9F%9A%80;Every+Commit+is+Progress+%E2%9C%85;Zero+to+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=700&lines=Learning+Python+%F0%9F%90%8D;Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;Building+in+Public+%F0%9F%9A%80;Every+Commit+is+Progress+%E2%9C%85;Zero+to+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -64,9 +64,9 @@
 
 ## 📊 GitHub Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=khalid-belahyane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7&cache_seconds=1800"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=khalid-belahyane&amp;show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7&cache_seconds=1800"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-belahyane&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7&cache_seconds=1800"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-belahyane&amp;layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7&cache_seconds=1800"/>
 
 </div>
 
@@ -76,7 +76,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=khalid-belahyane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=khalid-belahyane&amp;theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
 
 </div>
 
@@ -113,6 +113,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&customColorList=12&height=80&section=footer" />
 
 </div>
