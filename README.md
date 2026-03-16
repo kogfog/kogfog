@@ -1,13 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&customColorList=12&height=120&section=header&text=Khalid%20Belahyane&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=700&lines=Learning+Python+%F0%9F%90%8D;Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;Building+in+Public+%F0%9F%9A%80;Every+Commit+is+Progress+%E2%9C%85;Zero+to+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hey+I'm+Khalid+Belahyane!+%F0%9F%91%8B;Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;Learning+Python+from+Scratch+%F0%9F%90%8D;Building+in+Public+every+day+%F0%9F%9A%80)](https://github.com/khalid-belahyane)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalid-belahyane&label=Profile+Views&color=6ad3f7&style=flat-square)
-&nbsp;
 ![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square&logo=github)
 
 </div>
@@ -15,23 +10,21 @@
 ---
 
 ```yaml
-╔══════════════════════════════════════════════╗
-  name      : Khalid Belahyane
-  alias     : khalid-belahyane
-  role      : Aspiring AI & ML Engineer
-  status    : 🐍 Learning Python from scratch
-  goal      : Break into AI & Machine Learning
-  learning  :
-    ✅ Python fundamentals & OOP
-    ✅ Git & version control
-    🔄 Data structures & algorithms
-    🔜 NumPy, Pandas & data analysis
-    🔜 Machine learning with scikit-learn
-    🔜 Deep learning & neural networks
-  building  : Personal projects & learning logs
-  open_to   : Mentorship · Collaboration · Feedback
-  motto     : "Every expert was once a beginner" 💡
-╚══════════════════════════════════════════════╝
+name      : Khalid Belahyane
+alias     : khalid-belahyane
+role      : Aspiring AI & ML Engineer
+status    : Learning Python from scratch
+goal      : Break into AI & Machine Learning
+learning  :
+  - Python fundamentals & OOP
+  - Git & version control
+  - Data structures & algorithms
+  - NumPy, Pandas & data analysis
+  - Machine learning with scikit-learn
+  - Deep learning & neural networks
+building  : Personal projects & learning logs
+open_to   : Mentorship, Collaboration, Feedback
+motto     : Every expert was once a beginner
 ```
 
 ---
@@ -64,9 +57,8 @@
 
 ## 📊 GitHub Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=khalid-belahyane&amp;show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7&cache_seconds=1800"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-belahyane&amp;layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7&cache_seconds=1800"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalid-belahyane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7)](https://github.com/khalid-belahyane)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-belahyane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7)](https://github.com/khalid-belahyane)
 
 </div>
 
@@ -76,7 +68,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=khalid-belahyane&amp;theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=khalid-belahyane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/khalid-belahyane)
 
 </div>
 
@@ -107,12 +99,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-belahyane-05a4ba387)
 [![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalid-belahyane)
 
-<br/>
-
 **💬 Are you also on a learning journey? Drop a ⭐ and let's connect!**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&customColorList=12&height=80&section=footer" />
 
 </div>
