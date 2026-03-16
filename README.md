@@ -7,7 +7,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khalid-belahyane&label=Profile+Views&color=6ad3f7&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/khalid-belahyane?label=Followers&style=flat-square&color=6ad3f7)
+![GitHub followers](https://img.shields.io/github/followers/khalid-belahyane?label=Followers&style=flat-square&color=6ad3f7&cacheBust=1)
 
 </div>
 
