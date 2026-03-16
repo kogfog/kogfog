@@ -6,8 +6,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kogfog&label=Profile+Views&color=6ad3f7&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/kogfog?label=Followers&style=flat-square&color=6ad3f7)
+![Profile Views](https://komarev.com/ghpvc/?username=khalid-belahyane&label=Profile+Views&color=6ad3f7&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/khalid-belahyane?label=Followers&style=flat-square&color=6ad3f7)
 
 </div>
 
@@ -16,7 +16,7 @@
 ```yaml
 ╔══════════════════════════════════════════════╗
   name      : Khalid Belahyane
-  alias     : kogfog
+  alias     : khalid-belahyane
   role      : Aspiring AI & ML Engineer
   status    : 🐍 Learning Python from scratch
   goal      : Break into AI & Machine Learning
@@ -63,12 +63,12 @@
 
 ## 📊 GitHub Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kogfog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kogfog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=khalid-belahyane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ad3f7&icon_color=6ad3f7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-belahyane&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ad3f7"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kogfog&theme=tokyonight&hide_border=true&background=0d1117&ring=6ad3f7&fire=6ad3f7&currStreakLabel=6ad3f7" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-belahyane&theme=tokyonight&hide_border=true&background=0d1117&ring=6ad3f7&fire=6ad3f7&currStreakLabel=6ad3f7" alt="GitHub Streak" />
 
 </div>
 
@@ -78,7 +78,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=kogfog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=khalid-belahyane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
 
 </div>
 
@@ -106,8 +106,8 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-belahyane)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kogfog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-belahyane-05a4ba387)
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalid-belahyane)
 
 <br/>
 
